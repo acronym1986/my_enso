@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my_enso/static/css/main.ebc0fa05.chunk.css",
-    "main.js": "/my_enso/static/js/main.b9eef305.chunk.js",
-    "main.js.map": "/my_enso/static/js/main.b9eef305.chunk.js.map",
+    "main.js": "/my_enso/static/js/main.6d44a4bd.chunk.js",
+    "main.js.map": "/my_enso/static/js/main.6d44a4bd.chunk.js.map",
     "runtime-main.js": "/my_enso/static/js/runtime-main.dec07539.js",
     "runtime-main.js.map": "/my_enso/static/js/runtime-main.dec07539.js.map",
     "static/js/2.3f8d8277.chunk.js": "/my_enso/static/js/2.3f8d8277.chunk.js",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.dec07539.js",
     "static/js/2.3f8d8277.chunk.js",
     "static/css/main.ebc0fa05.chunk.css",
-    "static/js/main.b9eef305.chunk.js"
+    "static/js/main.6d44a4bd.chunk.js"
   ]
 }
