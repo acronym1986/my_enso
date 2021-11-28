@@ -28,7 +28,7 @@ const Worldmap = () => {
    
 
    useEffect(() => {
-       fetch('/data/world-110m.json')
+       fetch('/Data/world-110m.json')
            .then((response) => {
            if (response.status !== 200) {
                console.log(`Houston we have a problem:${response.status}`);
