@@ -1,0 +1,2 @@
+:root{--miniglobe-bg-color:#d8d8d8;--miniglobe-fg-color:#9b9b9b}*{-webkit-tap-highlight-color:rgba(0,0,0,0)}body,html{margin:0;padding:0}path{fill:#8f8f8f;stroke:#6d6d6d}.node{cursor:pointer}.node:hover{stroke:#000;stroke-width:1.5px}.node--leaf{fill:#f1f1f1}.label{font:11px "Helvetica Neue",Helvetica,Arial,sans-serif;text-anchor:middle;font-size:20px;text-shadow:0 1px 0 #fff,1px 0 0 #fff,-1px 0 0 #fff,0 -1px 0 #fff}.label,.node--leaf,.node--root{pointer-events:none}
+/*# sourceMappingURL=main.ebc0fa05.chunk.css.map */

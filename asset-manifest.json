@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my_enso/static/css/main.de3b057c.chunk.css",
-    "main.js": "/my_enso/static/js/main.e461970c.chunk.js",
-    "main.js.map": "/my_enso/static/js/main.e461970c.chunk.js.map",
-    "runtime-main.js": "/my_enso/static/js/runtime-main.e319f211.js",
-    "runtime-main.js.map": "/my_enso/static/js/runtime-main.e319f211.js.map",
-    "static/js/2.043d0719.chunk.js": "/my_enso/static/js/2.043d0719.chunk.js",
-    "static/js/2.043d0719.chunk.js.map": "/my_enso/static/js/2.043d0719.chunk.js.map",
-    "static/js/3.a78860da.chunk.js": "/my_enso/static/js/3.a78860da.chunk.js",
-    "static/js/3.a78860da.chunk.js.map": "/my_enso/static/js/3.a78860da.chunk.js.map",
+    "main.css": "/my_enso/static/css/main.ebc0fa05.chunk.css",
+    "main.js": "/my_enso/static/js/main.b9eef305.chunk.js",
+    "main.js.map": "/my_enso/static/js/main.b9eef305.chunk.js.map",
+    "runtime-main.js": "/my_enso/static/js/runtime-main.dec07539.js",
+    "runtime-main.js.map": "/my_enso/static/js/runtime-main.dec07539.js.map",
+    "static/js/2.3f8d8277.chunk.js": "/my_enso/static/js/2.3f8d8277.chunk.js",
+    "static/js/2.3f8d8277.chunk.js.map": "/my_enso/static/js/2.3f8d8277.chunk.js.map",
+    "static/js/3.5b147581.chunk.js": "/my_enso/static/js/3.5b147581.chunk.js",
+    "static/js/3.5b147581.chunk.js.map": "/my_enso/static/js/3.5b147581.chunk.js.map",
     "index.html": "/my_enso/index.html",
-    "static/css/main.de3b057c.chunk.css.map": "/my_enso/static/css/main.de3b057c.chunk.css.map",
-    "static/js/2.043d0719.chunk.js.LICENSE.txt": "/my_enso/static/js/2.043d0719.chunk.js.LICENSE.txt",
+    "static/css/main.ebc0fa05.chunk.css.map": "/my_enso/static/css/main.ebc0fa05.chunk.css.map",
+    "static/js/2.3f8d8277.chunk.js.LICENSE.txt": "/my_enso/static/js/2.3f8d8277.chunk.js.LICENSE.txt",
     "static/media/Ap.8c4c8071.svg": "/my_enso/static/media/Ap.8c4c8071.svg",
     "static/media/ap.a6805d10.png": "/my_enso/static/media/ap.a6805d10.png",
     "static/media/ap2.697c5721.png": "/my_enso/static/media/ap2.697c5721.png",
@@ -53,9 +53,9 @@
     "static/media/xaInvo.130e5e3e.svg": "/my_enso/static/media/xaInvo.130e5e3e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e319f211.js",
-    "static/js/2.043d0719.chunk.js",
-    "static/css/main.de3b057c.chunk.css",
-    "static/js/main.e461970c.chunk.js"
+    "static/js/runtime-main.dec07539.js",
+    "static/js/2.3f8d8277.chunk.js",
+    "static/css/main.ebc0fa05.chunk.css",
+    "static/js/main.b9eef305.chunk.js"
   ]
 }
