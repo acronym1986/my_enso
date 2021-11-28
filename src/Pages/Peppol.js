@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-export default function FullWidthGrid() {
+export default function Peppol() {
   const classes = useStyles();
 
   return (

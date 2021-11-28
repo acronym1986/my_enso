@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
   }
 }));
 
-export default function Introduction() {
+export default function Einvoice() {
   const classes = useStyles();
 
   return (

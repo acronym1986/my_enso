@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
     },
   }));
   
-  export default function Workflow() {
+  export default function Technology() {
     const classes = useStyles();
    
     return (

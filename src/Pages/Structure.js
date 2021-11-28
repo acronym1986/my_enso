@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
   
 }));
 
-export default function Introduction() {
+export default function Structure() {
   const classes = useStyles();
 
   return (

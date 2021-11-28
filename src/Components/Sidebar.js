@@ -107,7 +107,7 @@ function Sidebar(props) {
           </ListItem>
 
           <ListItem button className={classes.listItem} onClick={() => history.push("/workflow")}>
-            <ListItemText primary={"WORFLOW"} />
+            <ListItemText primary={"WORKFLOW"} />
           </ListItem>
     </div>
   );
