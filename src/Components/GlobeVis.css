@@ -1,0 +1,24 @@
+:root {
+    --miniglobe-bg-color: #d8d8d8;
+    --miniglobe-fg-color: #9b9b9b;
+  }
+  
+  * {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+  
+  body,
+  html {
+    margin: 0;
+    padding: 0;
+  }
+  /*
+  circle {
+    fill:  green;
+    stroke: gray;
+  }*/
+  
+  path {
+    fill: rgb(143, 143, 143);
+    stroke: rgb(109, 109, 109);
+  }

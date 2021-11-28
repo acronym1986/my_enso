@@ -3,9 +3,12 @@ import { makeStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 import { Box, Typography } from '@material-ui/core';
-import Worldmap from '../Components/Worldmap'
+//import Worldmap from '../Components/Worldmap'
 import smpAnimateSmall from '../Img/smpAnimateSmall.svg'
 import xaInvo from '../Img/xaInvo.svg'
+import '../Components/GlobeVis.css'
+import GlobeVis from "../Components/GlobeVis";
+
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -40,8 +43,8 @@ export default function FullWidthGrid() {
           style={{width:'100%',borderTop:'1px solid black',borderBottom:'1px solid black'}}
         >
         <Grid item xs={12} sm={4}>
-          <Box p={1}>
-          <Worldmap  />
+          <Box style={{padding:'15px 0 10px 50px'}}>
+          <GlobeVis/>
             </Box>
         </Grid>
         <Grid item xs={12} sm={8}>
